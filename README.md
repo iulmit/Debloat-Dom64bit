@@ -4,15 +4,10 @@ Win10 Debloat by Dom
 
 _______________________________________
 Backup point
-
 Disable (/Enable) Cortana
-
 Stop edge default PDF
-
 Appends an underscore '_' to the Registry key for Edge
-
 Disable Telemetry
-
 Disable Wi-Fi Sense
 Disable SmartScreen Filter
 Disable Application suggestions and automatic installation
