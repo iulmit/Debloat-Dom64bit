@@ -1,5 +1,5 @@
 # Debloat
-Win10 Debloat by Dom
+Windows 10 Debloat 
 # IF YOU HAVE ANY TROUBLE, YOU CAN RESTORE THE RESTORE POINT CREATED CALLED "Before Debloat"
 
 _______________________________________
